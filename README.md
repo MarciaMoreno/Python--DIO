@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/MarciaMoreno/Python--DIO/blob/main/assets/icon_dio_single.png?raw=true" alt="Logo da DIO">
+     <img src="https://github.com/MarciaMoreno/Python--DIO/blob/main/assets/icon_dio_single.png?raw=true" alt="Logo da DIO">
 </div>
 
 <div align="center">
