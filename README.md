@@ -1,9 +1,9 @@
 <div align="center">
-<img src="assets/icon_dio_single.png" alt="Logo da DIO">
+<img src="https://github.com/MarciaMoreno/Python--DIO/blob/main/assets/icon_dio_single.png?raw=true" alt="Logo da DIO">
 </div>
 
 <div align="center">
-     <img src="assets/logo_python-dio.png" alt="Logo Python">
+     <img src="https://github.com/MarciaMoreno/Python--DIO/blob/main/assets/logo_python-dio.png?raw=true" alt="Logo Python">
 </div>
 
 
