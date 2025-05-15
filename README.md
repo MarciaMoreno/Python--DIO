@@ -6,7 +6,7 @@
      <img src="assets/logo_python-dio.png" alt="Logo Python">
 </div>
 
-![..](https://github.com/MarciaMoreno/Python--DIO/blob/main/assets/professor.png?raw=true)
+![..]("https://github.com/MarciaMoreno/Python--DIO/blob/main/assets/professor.png?raw=true")
 
 >Orientador(a) do Curso: 
 <div align="center">
