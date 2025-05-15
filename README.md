@@ -9,6 +9,6 @@
 >Orientador(a) do Curso: 
 <div align="center">
      <a href="https://github.com/guicarvalho">
-          <img src="./assets/professor.png" alt="Foto com os dados do orientador do curso">
+          <img src="../assets/professor.png" alt="Foto com os dados do orientador do curso">
      </a>
 </div>
